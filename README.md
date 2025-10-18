@@ -4,4 +4,4 @@ A Power BI dashboard project analyzing water access and distribution in the Maji
 This project features two distinct Power BI dashboards:
 
 1. Maji Ndogo Stakeholder's Dashboard (For Decision-Makers)
-Images/Stakeholder national.png
+<img width="1189" height="741" alt="maji ndogo" src="https://github.com/user-attachments/assets/e5deebd3-5ff7-4a78-8be2-0c00e9b4a41c" />
